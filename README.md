@@ -6,6 +6,12 @@ Official PyTorch implementation of our CVIP 2025 paper:
 > Kamal Basha S, Athira Nambiar  
 > SRM Institute of Science and Technology
 
+# Sonar Contrastive Unlearning (TCU + UESF)
+
+<p align="center">
+  <img src="docs/Qualitative_results_FINAL-1.png" width="80%" />
+</p>
+
 This repository implements:
 
 - **Baseline sonar classifier** using EfficientNet-B0
